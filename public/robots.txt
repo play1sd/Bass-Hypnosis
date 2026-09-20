@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Bass Hypnosis 2026 Sitemaps
+Sitemap: /sitemap.json

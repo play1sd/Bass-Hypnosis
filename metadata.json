@@ -1,0 +1,6 @@
+{
+  "name": "Bass Hypnosis Playlist Website",
+  "description": "Official promotional hub for the Bass Hypnosis: Psy & Progressive 2026 Spotify playlist. Features immersive Spotify integrations, SEO-focused song profiles, dynamic community song submissions, a full curation dashboard with metrics, and social tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
